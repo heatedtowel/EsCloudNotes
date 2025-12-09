@@ -1,9 +1,9 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-ESZ5.CME@TM.Lite,6860.75,VAH,#000000,#00cc00,center
-ESZ5.CME@TM.Lite,6835.25,DAY LOW,#ffc800,#ff0000,center
-ESZ5.CME@TM.Lite,6846.50,NVPOC,#000000,#f0d000,center
-ESZ5.CME@TM.Lite,6840.25,VAL,#000000,#ff0000,center
-ESZ5.CME@TM.Lite,6886.25,DAY HI,#000000,#13d89d,center
+ESZ5.CME@TM.Lite,6891.50,VAH,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,6872.75,DAY LOW,#ffc800,#ff0000,center
+ESZ5.CME@TM.Lite,6888.75,NVPOC,#000000,#f0d000,center
+ESZ5.CME@TM.Lite,6884.25,VAL,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,6893.75,DAY HI,#000000,#13d89d,center
 e.g., ESZ5.CME@TM.Lite,6861.25,ETH-POC,#000000,#e100ff,center
 e.g., ESZ5.CME@TM.Lite,6868.50,ETH-HIGH,#000000,#00cc00,center
 e.g., ESZ5.CME@TM.Lite,6844.75,ETH-LOW,#000000,#ff0000,center
