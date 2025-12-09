@@ -1,4 +1,12 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
+ESZ5.CME@TM.Lite,6878.00,Y-NVPOC,#000000,#ad1ec1,center
+ESZ5.CME@TM.Lite,6880.00,Y-Mid,#000000,#00ffff,center
+ESZ5.CME@TM.Lite,6887.50,Y-VAH,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,6873.50,Y-VAL,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,0.00,Y-NVPOC ETH,#000000,#ad1ec1,center
+ESZ5.CME@TM.Lite,0.00,Y-Mid ETH,#000000,#00ffff,center
+ESZ5.CME@TM.Lite,0.00,Y-VAH ETH,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,0.00,Y-VAL ETH,#000000,#ff0000,center
 ESZ5.CME@TM.Lite,6854.00,PD-NVPOC,#000000,#ad1ec1,center
 ESZ5.CME@TM.Lite,6858.75,PD-Mid,#000000,#00ffff,center
 ESZ5.CME@TM.Lite,6865.50,PD-VAH,#000000,#00cc00,center
