@@ -1,3 +1,11 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 ESZ5.CME@TM.Lite,6872.75,Day High,#000000,#00cc00,center
 ESZ5.CME@TM.Lite,6844.50,Day Low,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,6847.50,ETH-POC,#000000,#ad1ec1,center
+ESZ5.CME@TM.Lite,6859.25,ETH High,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,6834.25,ETH-Low,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,6852,ETH VAH,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,6839.50,ETH VAL,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,6866,VAH,#000000,#00cc00,center
+ESZ5.CME@TM.Lite,6852,VAL,#000000,#ff0000,center
+ESZ5.CME@TM.Lite,6857,POC,#000000,#ad1ec1,center
