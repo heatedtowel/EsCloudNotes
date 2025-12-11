@@ -1,2 +1,6 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-
+ESZ5.CME@TM.Lite,6857.50,VAH,#000000,#03c03c,center
+ESZ5.CME@TM.Lite,6908,Day/H,#ffae03,#00ffbf,center
+ESZ5.CME@TM.Lite,6830.75,Day/L,#ffae03,#de3163,center
+ESZ5.CME@TM.Lite,6840.50,VAL,#000000,#ff3800,center
+ESZ5.CME@TM.Lite,6848.50,NVPOC,#000000,#ffae03,center
