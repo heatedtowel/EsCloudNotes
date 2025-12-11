@@ -1,6 +1,5 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 ESZ5.CME@TM.Lite,6872.75,PD-Day High,#000000,#00cc00,center
-ESZ5.CME@TM.Lite,6844.50,PD-Day Low,#000000,#ff0000,center
 ESZ5.CME@TM.Lite,6847.50,PD-ETH-POC,#000000,#ad1ec1,center
 ESZ5.CME@TM.Lite,6859.25,PD-ETH High,#000000,#00cc00,center
 ESZ5.CME@TM.Lite,6834.25,PD-ETH-Low,#000000,#ff0000,center
