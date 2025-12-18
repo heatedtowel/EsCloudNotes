@@ -1,4 +1,13 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
+ESH6.CME@TM.Lite,6860,P/VAH,#000000,#03c03c,center
+ESH6.CME@TM.Lite,6849,P/Mid,#000000,#39c3fe,center
+ESH6.CME@TM.Lite,6833,P/VAL,#000000,#ff3800,center
+ESH6.CME@TM.Lite,6844.75,P/NVPOC,#000000,#ffae03,center
+ESH6.CME@TM.Lite,6881.75,P/ETH/VAH,#000000,#03c03c,center
+ESH6.CME@TM.Lite,6860,P/ETH/VAL,#000000,#ff3800,center
+ESH6.CME@TM.Lite,6881,P/ETH/POC,#000000,#ffae03,center
+ESH6.CME@TM.Lite,6868.75,P/ETH/Mid,#000000,#39c3fe,center
+ESH6.CME@TM.Lite,6866,P/ETH/VWAP,#000000,#84eef5,center
 ESH6.CME@TM.Lite,6888,VAH,#000000,#03c03c,center
 ESH6.CME@TM.Lite,6897.75,Mid,#000000,#39c3fe,center
 ESH6.CME@TM.Lite,6887,VWAP,#000000,#9addf9,center
