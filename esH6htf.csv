@@ -1,12 +1,6 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 ESH6.CME@TM.Lite,7036.25,ATH/ETH,#000000,#ffae03,center
-ESH6.CME@TM.Lite,7025.25,ATH,#000000,#ffae03,center
-ESH6.CME@TM.Lite,7024.25,Day/H,#000000,#00ffbf,center
-ESH6.CME@TM.Lite,7017.25,Day/H,#000000,#00ffbf,center
-ESH6.CME@TM.Lite,7002.25,Day/H,#000000,#00ffbf,center
-ESH6.CME@TM.Lite,6935.00,ETH/H,#000000,#ffffff,center
-ESH6.CME@TM.Lite,6916.50,ETH/H,#000000,#ffffff,center
-ESH6.CME@TM.Lite,6904.75,Day/H,#000000,#00ffbf,center
+ESH6.CME@TM.Lite,7018.50,ATH,#000000,#ffae03,center
 ESH6.CME@TM.Lite,6864.25,680,#000000,#ffae03,center
 ESH6.CME@TM.Lite,6822.25,Day/L,#000000,#de3163,center
 ESH6.CME@TM.Lite,6820.00,ETH/L,#ffffff,#000000,center
@@ -15,23 +9,10 @@ ESH6.CME@TM.Lite,6771.50,ETH/L,#ffffff,#000000,center
 ESH6.CME@TM.Lite,6674.50,Day/L,#000000,#de3163,center
 ESH6.CME@TM.Lite,6646.75,Day/L,#000000,#de3163,center
 ESH6.CME@TM.Lite,6625.00,ETH/L,#ffffff,#000000,center
-ESH6.CME@TM.Lite,6932.75,Gap/H,#000000,#c039fe,center
-ESH6.CME@TM.Lite,6904.00,Gap/L,#000000,#c039fe,center
-ESH6.CME@TM.Lite,6860,ETH/H,#000000,#ffffff,center
 ESH6.CME@TM.Lite,6814.50,ETH/L,#ffffff,#000000,center
-ESH6.CME@TM.Lite,6945.25,Day/H,#000000,#3faf6c,center
 ESH6.CME@TM.Lite,6837.25,Day/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6963.25,ETH/H,#000000,#3faf6c,center
-ESH6.CME@TM.Lite,6924.75,ETH/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6969.00,Day/H,#000000,#3faf6c,center
-ESH6.CME@TM.Lite,6925.50,Day/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6964.00,Day/H,#000000,#3faf6c,center
-ESH6.CME@TM.Lite,6931.00,Day/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6955.25,ETH/H,#000000,#3faf6c,center
 ESH6.CME@TM.Lite,6879,ETH/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6995.50,Day/H,#000000,#3faf6c,center
 ESH6.CME@TM.Lite,6952.00,Day/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,7006.50,ETH/H,#000000,#3faf6c,center
 ESH6.CME@TM.Lite,6972,ETH/L,#000000,#d65a5a,center
 ESH6.CME@TM.Lite,7018.50,Day/H,#000000,#3faf6c,center
 ESH6.CME@TM.Lite,6988.25,Day/L,#000000,#d65a5a,center
