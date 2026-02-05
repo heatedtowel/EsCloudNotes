@@ -1,15 +1,8 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-ESH6.CME@TM.Lite,7017.00,Day/H,#000000,#3faf6c,center
-ESH6.CME@TM.Lite,6886.25,Day/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6977,VAH,#000000,#7bcf9b,center
-ESH6.CME@TM.Lite,6902,VAL,#000000,#e8a3a3,center
-ESH6.CME@TM.Lite,6969.75,NVPOC,#000000,#c9a227,center
-ESH6.CME@TM.Lite,6951.50,Mid,#000000,#4a90e2,center
-ESH6.CME@TM.Lite,6946,VWAP,#000000,#a9d4ff,center
-ESH6.CME@TM.Lite,6965.75,ETH/H,#000000,#3faf6c,center
-ESH6.CME@TM.Lite,6931.25,ETH/L,#000000,#d65a5a,center
-ESH6.CME@TM.Lite,6956,ETH/VAH,#000000,#7bcf9b,center
-ESH6.CME@TM.Lite,6941,ETH/VAL,#000000,#e8a3a3,center
-ESH6.CME@TM.Lite,6945,ETH/POC,#000000,#c9a227,center
-ESH6.CME@TM.Lite,6948,ETH/VWAP,#000000,#a9d4ff,center
-ESH6.CME@TM.Lite,6947.50,ETH/Mid,#000000,#4a90e2,center
+ESH6.CME@TM.Lite,6960.75,Day/H,#000000,#3faf6c,center
+ESH6.CME@TM.Lite,6862.50,Day/L,#000000,#d65a5a,center
+ESH6.CME@TM.Lite,6939.75,VAH,#000000,#7bcf9b,center
+ESH6.CME@TM.Lite,6881,VAL,#000000,#e8a3a3,center
+ESH6.CME@TM.Lite,6923,NVPOC,#000000,#c9a227,center
+ESH6.CME@TM.Lite,6913.75,VWAP,#000000,#a9d4ff,center
+ESH6.CME@TM.Lite,6911.50,Mid,#000000,#4a90e2,center
