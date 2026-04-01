@@ -1,8 +1,8 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-ESM6.CME@TM.Lite,6470,ON/H,#000000,#3faf6c,center
-ESM6.CME@TM.Lite,6353.25,ON/L,#000000,#d65a5a,center
-ESM6.CME@TM.Lite,6462,ON/VAH,#000000,#7bcf9b,center
-ESM6.CME@TM.Lite,6431,ON/VAL,#000000,#e8a3a3,center
-ESM6.CME@TM.Lite,6450,ON/POC,#000000,#c9a227,center
-ESM6.CME@TM.Lite,6436.25,ON/VWAP,#000000,#a9d4ff,center
-ESM6.CME@TM.Lite,6444,ON/Mid,#000000,#4a90e2,center
+ESM6.CME@TM.Lite,6643.75,ON/H,#000000,#3faf6c,center
+ESM6.CME@TM.Lite,6561,ON/L,#000000,#d65a5a,center
+ESM6.CME@TM.Lite,6615.50,ON/VAH,#000000,#7bcf9b,center
+ESM6.CME@TM.Lite,6579.25,ON/VAL,#000000,#e8a3a3,center
+ESM6.CME@TM.Lite,6602,ON/POC,#000000,#c9a227,center
+ESM6.CME@TM.Lite,6602,ON/VWAP,#000000,#a9d4ff,center
+ESM6.CME@TM.Lite,6602,ON/Mid,#000000,#4a90e2,center
